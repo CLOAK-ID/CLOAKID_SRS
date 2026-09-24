@@ -1,0 +1,26 @@
+# 2. References
+
+## 2.1 Project Reference
+
+- **CLOAKID Software Requirements Specification (SRS)**
+- Submitted to: Sir Umar Rashid
+- Subject: ADSS
+- Institution: Quaid-e-Azam University, Islamabad
+- SRS date: 07/05/2026
+
+## 2.2 Technical References Mentioned in the SRS
+
+The SRS refers to the following technologies or technical concepts:
+- HTTPS
+- TLS/SSL
+- Encryption
+- Multi-factor authentication
+- Email verification
+- Secure temporary storage
+- Watermarking
+- Activity logging
+- Access-control mechanisms
+
+## 2.3 External References
+
+The provided SRS does not contain a separate bibliography or list of external reference documents.
